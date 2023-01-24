@@ -4,13 +4,13 @@
    * [Download and install Office 2021](#download-and-install-office-2021)
       * [Install Office 2021 using Office Deployment Tool](#install-office-2021-using-office-deployment-tool)
    * [Activate Microsoft Office 2021](#activate-microsoft-office-2021)
-      * [Method 1: Activate Microsoft Office 2021 Commands](#method-1-activate-microsoft-office-2021-using-command-prompt)
+      * [Method 1: Activate Microsoft Office 2021 using Command Prompt](#method-1-activate-microsoft-office-2021-using-command-prompt)
       * [Method 2: Activate Microsoft Office 2021 Batch File](#method-2-activate-microsoft-office-2021-using-batch-file)
 
 # Download and install Office 2021
 ## Install Office 2021 using Office Deployment Tool
 
-Before you get started, Make sure that the operating system version you’re running is Windows 10 or later. There is no way to install Office 2021 on Windows 8.1 or earlier.
+Before you start, ensure that the operating system version you’re running is Windows 10 or later. There is no way to install Office 2021 on Windows 8.1 or earlier.
 
 **Step 1:** Download the zip file, right-click and then Extract the downloaded file to your computer.
 
@@ -18,11 +18,11 @@ Before you get started, Make sure that the operating system version you’re run
 
 **Step 2:** Open **Install-x32.bat** or **Install-x64.bat** to install Microsoft Office 2021 64-bit or 32-bit as you need.
 
-Installing **Microsoft Office 2021,** it’ll take several minutes depending on your internet speed.
+Installing **Microsoft Office 2021**, this may take several minutes, depending on your internet speed.
 
 ![Installing Office](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
 
-Once the installation is completed, let's open any Office apps. As you can see, you need to activate Office 2021 license, the trial license will expire in 7 days.
+Once the installation is completed, let's open any Office apps. As you can see, you need to activate the Office 2021 license; the trial license will expire in 7 days.
 
 ![Activation Required](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
 
@@ -47,7 +47,7 @@ pause
 ![Command-Prompt-Window](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
 
 ## Method 2: Activate Microsoft Office 2021 using Batch File
-**Step 1:** Right-click the Activator.bat file then select Run as administrator (You can find it in the Office2021 zip file).
+**Step 1:** Right-click the Activator.bat file, then select Run as administrator (You can find it in the Office2021 zip file).
 
 ![Run Batch file](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activator-Batch.jpg)
 
