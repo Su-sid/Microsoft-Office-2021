@@ -17,7 +17,7 @@ Before you start, ensure that the operating system version you’re running is W
 [Download Office 2021](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/Office2021.zip)
 
 **Step 2:** Open **Install-x32.bat** or **Install-x64.bat** to install Microsoft Office 2021 64-bit or 32-bit as you need.
-(If you only want to Install basic Office apps (Word, Excel, and Powerpoint) open **Install-x64-basic.bat** or **Intel-x32-basic.bat** instead.)
+*If you only want to Install basic Office apps (Word, Excel, and Powerpoint) open **Install-x64-basic.bat** or **Intel-x32-basic.bat** instead.*
 
 Installing **Microsoft Office 2021**, this may take several minutes, depending on your internet speed.
 
@@ -57,4 +57,4 @@ Finally, check the activation status of **Microsoft Office 2021**. Congratulatio
 
 ![Activation Complete](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activated.jpg)
 
-Credits: https://msgang.com
+KMS credits: https://msgang.com
