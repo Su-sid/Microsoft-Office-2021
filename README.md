@@ -12,19 +12,13 @@
 
 Before you start, ensure that the operating system version you’re running is Windows 10 or later. There is no way to install Office 2021 on Windows 8.1 or earlier.
 
-**Step 1:** Download the zip file, right-click and then Extract the downloaded file to your computer.
+**Step 1:** Download the exe file from: [office 2021](https://c2rsetup.officeapps.live.com/c2r/download.aspx?ProductreleaseID=ProPlus2021Retail&platform=x64&language=en-us&version=O16GA)
 
-[Download Office 2021](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/Office2021.zip)
-
-**Step 2:** Open **Install-x32.bat** or **Install-x64.bat** to install Microsoft Office 2021 64-bit or 32-bit as you need.
-
-*If you only want to Install basic Office apps (Word, Excel, and Powerpoint) open **Install-x64-basic.bat** or **Intel-x32-basic.bat** instead.*
-
-Installing **Microsoft Office 2021**, this may take several minutes, depending on your internet speed.
+Installing **Microsoft Office 2021**, takes several minutes, depending on your internet speed.
 
 ![Installing Office](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
 
-Once the installation is completed, let's open any Office apps. As you can see, you need to activate the Office 2021 license; the trial license will expire in 7 days.
+Once you complete the installation, all Office apps will run under a 7-day trial license.
 
 ![Activation Required](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
 
