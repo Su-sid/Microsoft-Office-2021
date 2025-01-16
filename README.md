@@ -16,17 +16,18 @@ Before you start, ensure that the operating system version you’re running is W
 
 Installing **Microsoft Office 2021**, takes several minutes, depending on your internet speed.
 
-![Installing Office](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
+![Installing Office](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Installing-Office.jpg)
 
 Once you complete the installation, all Office apps will run under a 7-day trial license.
 
-![Activation Required](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
+![Activation Required](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Activation-Required.jpg)
+
 
 # Activate Microsoft Office 2021
 ## Method 1: Activate Microsoft Office 2021 using Command Prompt
 **Step 1:** Type **cmd** in search box, right click on **Command Prompt** then select **Run as administrator**.
 
-![Command-Prompt](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Command-Prompt.jpg)
+![Command-Prompt](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Command-Prompt.png)
 
 **Step 2:** Copy all below commands, **right click to paste into cmd window** at once then hit Enter.
 
@@ -41,15 +42,14 @@ pause
 ```
 **Microsoft Office 2021** was activated, and you can start using the applications without any restrictions or limitations.
 
-![Command-Prompt-Window](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
+![Command-Prompt-Window](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Command-Prompt-Activate.jpg)
 
 ## Method 2: Activate Microsoft Office 2021 using Batch File
-**Step 1:** Right-click the Activator.bat file, then select Run as administrator (You can find it in the Office2021 zip file).
 
-![Run Batch file](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activator-Batch.jpg)
+**Step 1:** Right-click the Activator.bat file, then select Run as administrator (You can find it in the Office2021 zip file).
 
 Finally, check the activation status of **Microsoft Office 2021**. Congratulations! The activation was completed successfully.
 
-![Activation Complete](https://raw.githubusercontent.com/21Z/Microsoft-Office-2021/main/assets/Activated.jpg)
+![Activation Complete](https://raw.githubusercontent.com/su-sid/Microsoft-Office-2021/main/assets/Activated.jpg)
 
 KMS credits: https://msgang.com
